@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shdorsh
-- 👀 I’m interested in ...
+- 👀 I’m interested in frontend and backend development, 
 - 🌱 I’m currently in a webdesign bootcamp.
 - 💞️ I’m looking to collaborate on anything that wakes my interest.
 - 📫 How to reach me: Uh... do you know a twitch streamer named FailureGuaranteed? He's a pretty great guy, I heard.
