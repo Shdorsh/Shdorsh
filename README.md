@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shdorsh
+# 👋 Hi, I’m @Shdorsh
 - 👀 I’m interested in web development, anything low level, neural networks and much more
 - 🌱 I work as fullstack webdeveloper, though I like to broaden my horizon
 - 📫 How to reach me: shdorsh on Discord
