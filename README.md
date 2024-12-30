@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @Shdorsh
 - 👀 I’m interested in web development, anything low level, neural networks and much more
-- 🌱 I work as fullstack webdeveloper, though I like to broaden my horizon
+- 🌱 Worked as a fullstack Webdev with Laravel and Nuxt, now learning C in school 42
 - 📫 How to reach me: shdorsh on Discord
+- 🔧 Current pastime projects: Combinatory parsers and neural networks in C
 
 ## Tech stack
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -21,6 +22,7 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 <!---
 Shdorsh/Shdorsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
