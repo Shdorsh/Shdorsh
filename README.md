@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Shdorsh
+# 👋 Hi, I’m Amin Jean Bredimus, a.k.a @Shdorsh
 - 👀 I’m interested in web development, anything low level, neural networks and much more
 - 🌱 Worked as a fullstack Webdev with Laravel and Nuxt, now learning C in school 42
 - 📫 How to reach me: shdorsh on Discord
