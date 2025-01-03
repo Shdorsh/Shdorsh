@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Amin Jean Bredimus, a.k.a @Shdorsh
-- 👀 I’m interested in web development, anything low level, neural networks and much more
+- 👀 I’m interested in anything low level, neural networks, web development and much more
 - 🌱 Worked as a fullstack Webdev with Laravel and Nuxt, now learning C in school 42
 - 📫 How to reach me: shdorsh on Discord
-- 🔧 Current pastime projects: Combinatory parsers and neural networks in C
+- 🔧 Current pastime projects: Combinatory parsers and neural networks in C / learning what C does under the hood
 
 ## Tech stack
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
